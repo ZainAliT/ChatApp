@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat app using node , mongo , socket  , express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZainAliT/ChatApp.git"
+  },
+  "author": "zain-tariq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZainAliT/ChatApp/issues"
+  },
+  "homepage": "https://github.com/ZainAliT/ChatApp#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
